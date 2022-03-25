@@ -1,7 +1,7 @@
 package com.globallogic.ejerciciobci.controller;
 
-import com.globallogic.ejerciciogl.dto.UserDto;
-import com.globallogic.ejerciciogl.service.UserService;
+import com.globallogic.ejerciciobci.dto.UserDto;
+import com.globallogic.ejerciciobci.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
